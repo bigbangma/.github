@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to BigBang.ma's GitHub Repository! 👋</h1>
 
-![Illustration representing the spirit of innovation in BigBang.ma's GitHub organization.]([./assets/bbgogp.svg](https://raw.githubusercontent.com/bigbangma/.github/main/profile/assets/bbgogp.svg))
+![Illustration representing the spirit of innovation in BigBang.ma's GitHub organization.](https://raw.githubusercontent.com/bigbangma/.github/main/profile/assets/bbgogp.svg)
 
 Welcome to BigBang.ma's GitHub space, where we thrive on collaboration and innovation. Established since **[Insert Establishment Date]**, we've been actively contributing to the tech landscape with our expertise in company integrations, CI/CD pipelines, DevOps practices, Docker environments, and specialized Odoo custom modules development. Our journey is marked by **[Number of Commits]** commits, **[Number of Issues]** issues opened, and approximately **[Number of Pull Requests]** pull requests across **[Number of Repositories]** repositories, making a significant impact on the global tech community.
 

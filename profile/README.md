@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to BigBang.ma's GitHub Repository! 👋</h1>
+<h1 align="center">Welcome to BigBang.ma's GitHub Organization! 👋</h1>
 
 ![Illustration representing the spirit of innovation in BigBang.ma's GitHub organization.](https://raw.githubusercontent.com/bigbangma/.github/main/profile/assets/bbgogp.svg)
 
